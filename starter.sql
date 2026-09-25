@@ -1,13 +1,4 @@
 
-
-SET SERVEROUTPUT ON;
-
-DECLARE
-v_marks NUMBER := 75;
-BEGIN
-
-    
-Assume 40 marks is the pass mark.
 SET SERVEROUTPUT ON;
 DECLARE
     marks NUMBER := 65;
